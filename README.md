@@ -7,8 +7,8 @@ Name	ID Number
 K Sai Anshu	2520030440
 Moksha Depuru	2520030515
 U Pranav Varma	2520030351
-Supervisor
 
+Supervisor
 Dr. S. Vinay Kumar, Associate Professor, Department of Computer Science and Engineering
 
 Abstract
